@@ -1,5 +1,5 @@
-print("hello world");
-print("hello everybody");
-print("hello")
-print("hello my friends")
-print("rad vsem")
+print("hello world;");
+print("hello everybody;");
+print("hello;")
+print("hello my friends;")
+print("rad vsem;")
